@@ -1,5 +1,8 @@
 {
   "dependencies": {
-    "@openzeppelin/cli": "^2.8.2"
+    "@openzeppelin/cli": "^2.8.2",
+    "@openzeppelin/contracts-ethereum-package": "^3.0.0",
+    "@truffle/hdwallet-provider": "^2.1.11",
+    "dotenv": "^16.0.3"
   }
 }
