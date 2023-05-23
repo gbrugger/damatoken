@@ -1,2 +1,2 @@
 # damatoken
-ERC-20 Standard Token implementation. Udacity Blockchain Developer nanodegree exercises for token creation.
+ERC-20 Standard Token implementation using OpenZeppelin. Udacity Blockchain Developer nanodegree exercises for token creation.
